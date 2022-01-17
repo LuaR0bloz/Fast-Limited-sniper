@@ -11,4 +11,5 @@
 5. done it is sniping limiteds under the set of the robux range
 
 # notes
-this uses rolimons to snipe so credit to them i guess
+1. this uses rolimons to snipe so credit to them i guess
+2. run config.exe if u dont wish to use your account info or u wanna test the sniper
